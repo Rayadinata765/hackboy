@@ -14,7 +14,7 @@ echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR    :"$ku" Mr_Boy  [FR13ND8]"$i"               |"
+echo $i" |"$pu" AUTHOR    :"$ku" Mr_Boy  [FR13NDS]"$i"               |"
 echo $i" |"$pu" FACEBOOK  :"$ku" Riska Dilan OKTAVIANI"$i"           |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.Rv1] [MR.KiZ] [MR.VanS]"$i"    |"
 echo $i" |"$cy"            ~ [Zobin] [B490NG] [Kamu yg make]"$i"|"
