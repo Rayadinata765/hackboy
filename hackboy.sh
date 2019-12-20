@@ -7,7 +7,7 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-# Jangan Recode Ya gayn
+# Jangan Recode Ya broo
 echo
 echo
 echo
@@ -15,7 +15,7 @@ echo $i"["$bi"•"$i"]"$me"─────────────────�
 echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR    :"$ku" Mr_Boy  [FR13NDS]"$i"               |"
-echo $i" |"$pu" FACEBOOK  :"$ku" Riska Dilan OKTAVIANI"$i"           |"
+echo $i" |"$pu" INSTAGRAM  :"$ku" @Rayadinata765"$i"           |"
 echo $i" |"$pu" THANKS TO :"$cy"~ [MR.Rv1] [MR.KiZ] [MR.VanS]"$i"    |"
 echo $i" |"$cy"            ~ [Zobin] [B490NG] [Kamu yg make]"$i"|"
 echo $i" |"$pu" Contack WhatsApp :"$ku" +62"$i"                      |"
